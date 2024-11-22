@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming, web development 
 - 🌱 I’m currently learning full-stack web development
 - 💞️ I’m looking to collaborate on web development
-- 📫 How to reach me: Itx_Hammad@outlook.com
+- 📫 How to reach me: hammadmuhammadmh786@gmail.com
 - 😄 Pronouns: Mian
 - ⚡ Fun fact: "I don't code to earn, but it feels exciting"  
 
